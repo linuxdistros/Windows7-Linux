@@ -1,6 +1,10 @@
-# Windows 7 - Linux Alternatives
+# Windows 7 End of Life - Linux Alternatives
 
-Linux alternatives to Windows 7 as it goes End of Life (EOL) on January 14th 2020
+Linux alternatives to Windows 7 as it goes End of Life (EOL) on January 14th 2020.
+
+After this date, Windows 7 will technically leave “extended support.” Businesses can pay for additional support, but average consumer PCs will be stuck without security patches.
+
+A paid update to Windows 10 is another option, when Windows XP went End of Life in April 2014 many switched to Linux which has the benefit of being optimised to work on older hardware so you also get better performance too on top of a range of pre installed free software. Beginners mainly switched to Linux Mint and Ubuntu, which are easy to use with automatic hardware recognition and a range of free installed software such as LibreOffice (Office 365 alternative), Firefox and GIMP (Photoshop alternative) plus many more.
 
 [Ubuntu Linux on DVD or USB](https://thelinuxshop.co.uk/ubuntu-m-35.html)
 
