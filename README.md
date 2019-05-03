@@ -18,6 +18,6 @@ A paid update to Windows 10 is another option, when Windows XP went End of Life 
 
 Available on DVD and 32GB USB Stick from TheLinuxShop, which delivers free to the United Kingdom (UK) or costs £3.99 for shipping to over 160 countries worldwide.
 
-[Available in a Linux Starter Pack bundle](https://thelinuxshop.co.uk/linux-starter-pack-p-221.html)
+[The 5 distros listed above are all in the Linux Starter Pack bundle on DVD](https://thelinuxshop.co.uk/linux-starter-pack-p-221.html)
 
 [Other alternative Linux OS with a similar look and feel to Windows 7 in a Windows Clone Pack bundle](https://thelinuxshop.co.uk/windows-clone-pack-p-322.html)
